@@ -1,0 +1,7 @@
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Inheritance\bin\Debug\Inheritance.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Inheritance\bin\Debug\Inheritance.pdb
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Inheritance\obj\Debug\Inheritance.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Inheritance\obj\Debug\Inheritance.pdb
