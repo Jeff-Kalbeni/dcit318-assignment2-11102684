@@ -1,0 +1,7 @@
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Abstract Class\bin\Debug\Abstract Class.exe.config
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Abstract Class\bin\Debug\Abstract Class.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Abstract Class\bin\Debug\Abstract Class.pdb
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Abstract Class\obj\Debug\Abstract Class.csproj.AssemblyReference.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Abstract Class\obj\Debug\Abstract Class.csproj.CoreCompileInputs.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Abstract Class\obj\Debug\Abstract Class.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Abstract Class\obj\Debug\Abstract Class.pdb
