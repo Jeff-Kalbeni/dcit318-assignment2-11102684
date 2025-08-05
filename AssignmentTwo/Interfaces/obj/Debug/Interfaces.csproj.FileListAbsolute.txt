@@ -1,0 +1,7 @@
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Interfaces\bin\Debug\Interfaces.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Interfaces\bin\Debug\Interfaces.pdb
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Interfaces\obj\Debug\Interfaces.exe
+C:\Dkp Files\Lecture Slides\DCIT 318\dcit318-assignment2-11102684\AssignmentTwo\Interfaces\obj\Debug\Interfaces.pdb
